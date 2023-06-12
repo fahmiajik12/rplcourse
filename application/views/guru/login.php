@@ -120,28 +120,12 @@
 
 
     <?php if ($this->session->flashdata('success-logout')) : ?>
-        <script>
-            Swal.fire({
-                icon: 'success',
-                title: 'Kamu berhasil logout!',
-                text: 'Selamat tinggal, Sampai jumpa lagi!',
-                showConfirmButton: false,
-                timer: 2500
-            })
-        </script>
+
     <?php endif; ?>
 
 
     <?php if ($this->session->flashdata('fail-login')) : ?>
-        <script>
-            Swal.fire({
-                icon: 'error',
-                title: 'Gagal login!',
-                text: 'Silahkan Periksa Kembali Email dan Password Kamu!',
-                showConfirmButton: false,
-                timer: 2500
-            });
-        </script>
+       
     <?php endif; ?>
 
 
@@ -159,28 +143,11 @@
 
 
     <?php if ($this->session->flashdata('fail-pass')) : ?>
-        <script>
-            Swal.fire({
-                icon: 'error',
-                title: 'Password Salah!',
-                text: 'Silahkan Periksa Kembali Password Kamu!',
-                showConfirmButton: false,
-                timer: 2500
-            });
-        </script>
     <?php endif; ?>
 
 
     <?php if ($this->session->flashdata('not-login')) : ?>
-        <script>
-            Swal.fire({
-                icon: 'error',
-                title: 'Harap Login Terlebih Dahulu !',
-                text: 'Silahkan Login Dahulu !',
-                showConfirmButton: false,
-                timer: 2500
-            });
-        </script>
+
     <?php endif; ?>
 
     <!-- End Sweetalert -->

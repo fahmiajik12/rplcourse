@@ -12,7 +12,7 @@
                         <li><a href="<?= base_url('welcome/tentang') ?>">Tentang Socamp</a></li>
                         <li><a href="<?= base_url('welcome/materi') ?>">Materi Socamp</a></li>
                         <li><a href="<?= base_url('welcome/kontak') ?>">Kontak Socamp</a></li>
-                        <li><a href="http://smkn1ciamis.id/">Website Resmi Sekolah</a></li>
+                        <li><a href="#">Website Resmi Sekolah</a></li>
                     </ul>
                 </div>
             </div>

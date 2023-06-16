@@ -37,7 +37,7 @@
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i>54</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i>Guru Matematika SMKN 1 Ciamis</a>
+                                    <li><a href="#"><i class="lnr lnr-user"></i>Guru Matematika SMA NEGERI 1</a>
                                     </li>
                                 </ul>
                             </div>
@@ -54,7 +54,7 @@
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i> 34</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru IPA SMKN 1 Ciamis</a></li>
+                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru IPA SMA NEGERI 1</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i> 63</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru English SMKN 1 Ciamis</a></li>
+                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru English SMA NEGERI 1</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                                 <ul class="list">
                                     <li><a href="#"><i class="lnr lnr-users"></i> 24</a></li>
                                     <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru Indonesia SMKN 1 Ciamis</a>
+                                    <li><a href="#"><i class="lnr lnr-user"></i> Guru Indonesia SMA NEGERI 1</a>
                                     </li>
                                 </ul>
                             </div>
@@ -105,7 +105,7 @@
                         <ul class="list">
                             <li><a href="#"><i class="lnr lnr-users"></i> 35</a></li>
                             <li><a href="#"><i class="lnr lnr-bubble"></i> 0</a></li>
-                            <li><a href="#"><i class="lnr lnr-user"></i> Guru Agama SMKN 1 Ciamis</a></li>
+                            <li><a href="#"><i class="lnr lnr-user"></i> Guru Agama SMA NEGERI 1</a></li>
                         </ul>
                     </div>
                 </div>
